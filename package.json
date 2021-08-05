@@ -2,14 +2,14 @@
   "name": "jssip",
   "title": "JsSIP",
   "description": "the Javascript SIP library",
-  "version": "3.2.15",
+  "version": "3.2.15-brekeke-000",
   "homepage": "http://jssip.net",
   "author": "José Luis Millán <jmillan@aliax.net> (https://github.com/jmillan)",
   "contributors": [
     "Iñaki Baz Castillo <ibc@aliax.net> (https://github.com/ibc)",
     "Saúl Ibarra Corretgé <saghul@gmail.com> (https://github.com/saghul)"
   ],
-  "main": "lib-es5/JsSIP.js",
+  "main": "lib/JsSIP.js",
   "keywords": [
     "sip",
     "websocket",
